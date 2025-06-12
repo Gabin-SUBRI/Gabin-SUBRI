@@ -1,4 +1,4 @@
-# 🚀 Salut, moi c'est Gabin-SUBRI ! 👋  
+# 🚀 Salut, moi c'est Gabin ! 👋  
 
 ## 🛠 Qui suis-je ?  
 
