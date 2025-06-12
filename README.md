@@ -15,7 +15,7 @@
 ## 🚀 Ce sur quoi je travaille  
 
 🔭 Développement de **sites web et applications** pour mes clients  
-🌱 En apprentissage de **nouvelles technologies**, notamment **[tes langages et outils préférés]**  
+🌱 En apprentissage de **nouvelles technologies**, notamment **React et three.js**  
 👯 Ouvert aux collaborations sur **projets open-source, freelance et startups**  
 💬 Pose-moi des questions sur **développement full-stack, gestion de projet ou optimisation digitale**  
 
