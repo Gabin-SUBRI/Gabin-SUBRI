@@ -23,7 +23,7 @@
 
 ## 📫 Me contacter  
 
-📧 Email : **[gabinsubri.com]**  
+📧 Email : **gabinsubri.com**  
 🐦 Prendre RDV : [Ici](https://calendly.com/gabinsubri/30min)  
 💼 LinkedIn : [mon profil LinkedIn](https://www.linkedin.com/in/gabin-subri/)  
 🌐 Portfolio : [mon site web](https://www.gabinsubri.com)  
