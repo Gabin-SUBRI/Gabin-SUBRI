@@ -25,6 +25,7 @@
 
 📧 Email : **gabinsubri.com**  
 🐦 Prendre RDV : [Ici](https://cal.com/gabin-subri/30min)
+
 💼 LinkedIn : [mon profil LinkedIn](https://www.linkedin.com/in/gabin-subri/)  
 🌐 Portfolio : [mon site web](https://www.gabinsubri.com)  
 
